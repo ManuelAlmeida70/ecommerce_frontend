@@ -1,0 +1,26 @@
+/*#header-compra.header-contato{
+   
+}*/
+#contact-details{
+    display: flex;
+    justify-content: space-between;
+}
+#contact-details .detail{
+    width: 40%;
+}
+#contact-details .detail span{
+    font-size: 12px;
+}
+#contact-details .detail h2{
+    font-size: 26px;
+    line-height: 30px;
+    padding: 20px 0;
+}
+#contact-details .detail h3{
+    font-size: 16px;
+    padding-bottom: 15px;
+}
+#contact-details .map{
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 60%;
+}
